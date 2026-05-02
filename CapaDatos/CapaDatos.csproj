@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7491C141-7AD3-447B-B063-3CE581E2EFD6}</ProjectGuid>
+    <ProjectGuid>{70CA901F-562B-85DE-CB5B-638070A6560A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CapaDatos</RootNamespace>
